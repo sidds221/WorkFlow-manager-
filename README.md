@@ -5,3 +5,6 @@ Front end is built on Thymeleaf engine.
 Backend on Spring Boot.
 Database is MySQL.
 
+Add email id and password in application.properties to enable email feature.
+
+hit me up on sidkamailbox@gmail.com for clarity. =)
